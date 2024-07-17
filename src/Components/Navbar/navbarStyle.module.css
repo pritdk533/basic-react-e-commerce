@@ -1,0 +1,23 @@
+.navContainer {
+  width: 100%;
+  margin-bottom: 30px;
+  background-color: aqua;
+}
+
+.navContainer nav {
+  display: flex;
+  justify-content: space-between;
+  width: 1200px;
+  height: 64px;
+  font-size: 14px;
+  padding: 10px;
+  margin: auto;
+}
+
+.navContainer nav button {
+  width: 75px;
+  height: 35px;
+  color: antiquewhite;
+  background-color: rgba(35, 35, 35, 0.7);
+  font-size: 16px;
+}
